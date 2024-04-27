@@ -1,6 +1,6 @@
-<div style = "align: centre;"> 
-  <picture style=";">
-  <source
+<div align: "centre;"> 
+  <picture align="centre">
+  <source align = "centre"
     srcset="https://github-readme-stats.vercel.app/api?username=Ivyson&show_icons=true&theme=blue-green"
     media="(prefers-color-scheme: dark)"
   />
