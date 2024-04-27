@@ -1,4 +1,4 @@
-<div align: "centre;"> 
+<div align: "centre" style="display:flex;"> 
   <picture align="centre">
   <source align = "centre"
     srcset="https://github-readme-stats.vercel.app/api?username=Ivyson&show_icons=true&theme=blue-green"
