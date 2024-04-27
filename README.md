@@ -13,7 +13,7 @@
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivyson)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivyson&layout=donut)](https://github.com/Ivyson/github-readme-stats)
 
 
 # Welcome to My GitHub Profile! 👋
