@@ -11,7 +11,9 @@
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Ivyson&show_icons=true" />
 </picture>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivyson)](https://github.com/Ivyson/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivyson)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Welcome to My GitHub Profile! 👋
