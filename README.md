@@ -26,12 +26,13 @@
 ## About Me
 I'm a passionate web developer and programmer with a knack for creating engaging digital experiences. I love to explore and build with a variety of technologies.
 
-## Technologies I Use
-- **HTML**: Crafting the structure of web pages.
-- **CSS**: Styling and bringing life to web designs.
-- **JavaScript**: Adding interactivity and dynamic features.
-- **C**: Solving complex problems with efficient algorithms.
-- **Python**: Automating tasks and data analysis.
+> ## Technologies I Use
+> - **HTML**: Crafting the structure of web pages.
+> - **CSS**: Styling and bringing life to web designs.
+> - **JavaScript**: Adding interactivity and dynamic features.
+> - **C**: Solving complex problems with efficient algorithms.
+> - **Python**: Automating tasks and data analysis.
+> - **Java** : Building robust and high-performance applications.
 
 ## Projects
 Check out my repositories to see what I've been working on!
