@@ -12,7 +12,7 @@
 </picture>
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivyson&layout=donut&widht=500)](https://github.com/Ivyson/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivyson&layout=donut&width=500&theme=black)](https://github.com/Ivyson/github-readme-stats)
 
   
 </div>
