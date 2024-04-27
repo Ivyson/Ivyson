@@ -1,4 +1,5 @@
-<picture>
+<div style = "text-align: centre;"> 
+  <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Ivyson&show_icons=true&theme=blue-green"
     media="(prefers-color-scheme: dark)"
@@ -9,7 +10,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Ivyson&show_icons=true" />
 </picture>
-
+</div>
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
