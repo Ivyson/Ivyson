@@ -25,4 +25,4 @@ I'm a passionate web developer and programmer with a knack for creating engaging
 Check out my repositories to see what I've been working on!
 
 ## Let's Connect!
-Feel free to reach out to collaborate or just say hi. Happy coding!
+Feel free to reach out, either for collaborating or any contribution. 
