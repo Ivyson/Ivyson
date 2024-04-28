@@ -1,9 +1,7 @@
 <div align="center">
-  <img src="https://github-readme-stats-ten-sigma-29.vercel.app/api?username=Ivyson&show_icons=true&theme=blue-green&count-private=true" alt="GitHub Stats" widht="400" height="200"/>
-  <img src="https://github-readme-stats-ten-sigma-29.vercel.app/api/top-langs/?username=Ivyson&layout=compact&theme=tokyonight&count-private=true&langs_count=8" alt="Top Languages" width="400" height="200" />
+  <img src="https://github-readme-stats-ten-sigma-29.vercel.app/api?username=Ivyson&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400" height="200"/>
+  <img src="https://github-readme-stats-ten-sigma-29.vercel.app/api/top-langs/?username=Ivyson&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" width="400" height="200" />
 </div>
-
-
 
 
 
