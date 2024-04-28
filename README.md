@@ -1,20 +1,6 @@
-<div align: "centre" style="display:flex;"> 
-  <picture align="centre">
-  <source align = "centre"
-    srcset="https://github-readme-stats.vercel.app/api?username=Ivyson&show_icons=true&theme=blue-green"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Ivyson&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Ivyson&show_icons=true" />
-</picture>
-
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivyson&theme=tokyonight)
-
-  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ivyson&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivyson&layout=compact" alt="Top Languages" />
 </div>
 
 
