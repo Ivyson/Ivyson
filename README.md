@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ivyson&show_icons=true&theme=blue-green" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivyson&layout=compact" alt="Top Languages" width="400" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivyson&layout=compact&theme=tokyonight" alt="Top Languages" width="400" height="195" />
 </div>
 
 
