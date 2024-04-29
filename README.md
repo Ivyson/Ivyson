@@ -3,8 +3,6 @@
   <img src="https://github-readme-stats-ten-sigma-29.vercel.app/api/top-langs/?username=Ivyson&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" width="400" height="200" />
 </div>
 
-
-
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
